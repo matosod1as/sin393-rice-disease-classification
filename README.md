@@ -2,7 +2,7 @@
 
 Projeto da disciplina **SIN 393 – Introdução à Visão Computacional (2026)**, Universidade Federal de Viçosa – Campus Rio Paranaíba, Prof. João Fernando Mari.
 
-**Autores:** Vinícius Matoso Dias *(adicionar os demais integrantes do grupo)*
+**Autores:** Vinícius Matoso Dias, Paulo Roberto e Gabriel Rodrigues
 
 **Vídeo de apresentação (YouTube):** *(colar o link aqui)*
 
