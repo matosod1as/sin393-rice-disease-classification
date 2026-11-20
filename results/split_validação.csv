@@ -1,0 +1,125 @@
+path,label,class_name,md5,orig_path,group
+cache/0_adcee38f92ad8ae82c275a457eca1a96.jpg,0,Bacterial Leaf Blight,adcee38f92ad8ae82c275a457eca1a96,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_172850.jpg,12
+cache/0_2c5abd2325975e7fc76a0f13f268250f.jpg,0,Bacterial Leaf Blight,2c5abd2325975e7fc76a0f13f268250f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173003.jpg,21
+cache/0_db82962e4a7e1e95ad59d1aeb68834b3.jpg,0,Bacterial Leaf Blight,db82962e4a7e1e95ad59d1aeb68834b3,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173137_1.jpg,28
+cache/0_aac7358c0d1621a8628352ae834dd9d1.jpg,0,Bacterial Leaf Blight,aac7358c0d1621a8628352ae834dd9d1,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173139.jpg,29
+cache/0_bc65fa02f22634d19836393cb312b94a.jpg,0,Bacterial Leaf Blight,bc65fa02f22634d19836393cb312b94a,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173252.jpg,37
+cache/0_7e9ebec1d659910affe300b5ed85447f.jpg,0,Bacterial Leaf Blight,7e9ebec1d659910affe300b5ed85447f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173255.jpg,39
+cache/0_9e2ad79ed9272496972aaad44e736266.jpg,0,Bacterial Leaf Blight,9e2ad79ed9272496972aaad44e736266,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173342.jpg,45
+cache/0_002929f791820d06f1c7890b9d7e5851.jpg,0,Bacterial Leaf Blight,002929f791820d06f1c7890b9d7e5851,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173521.jpg,46
+cache/0_d0874e4d5311d455b81498672f61ea16.jpg,0,Bacterial Leaf Blight,d0874e4d5311d455b81498672f61ea16,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173527.jpg,47
+cache/0_81b1dfeae4cc602ffa12b63c975b42ca.jpg,0,Bacterial Leaf Blight,81b1dfeae4cc602ffa12b63c975b42ca,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173528.jpg,47
+cache/0_2792d098c6943589d8895dfd12792e73.jpg,0,Bacterial Leaf Blight,2792d098c6943589d8895dfd12792e73,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231018_143030.jpg,73
+cache/0_788171c78f178bd2073ecc858637751a.jpg,0,Bacterial Leaf Blight,788171c78f178bd2073ecc858637751a,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231018_143622.jpg,78
+cache/0_30a45602480c8257ca31a7ac821cbe5c.jpg,0,Bacterial Leaf Blight,30a45602480c8257ca31a7ac821cbe5c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231018_143742_1.jpg,84
+cache/1_1409df6cceed5beb6ff491428486c4a2.jpg,1,Brown Spot,1409df6cceed5beb6ff491428486c4a2,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (142).jpg,111
+cache/1_065f3759e98b0c3a95a46a738ef4c755.jpg,1,Brown Spot,065f3759e98b0c3a95a46a738ef4c755,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (144).jpg,113
+cache/1_d5ca01e977a84da3a037c43990ab02e1.jpg,1,Brown Spot,d5ca01e977a84da3a037c43990ab02e1,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (150).jpg,119
+cache/1_bd8419ad3fc06f1a03deba28115e01b3.jpg,1,Brown Spot,bd8419ad3fc06f1a03deba28115e01b3,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (152).jpg,121
+cache/1_39150ad570f052649696ec042ab6577d.jpg,1,Brown Spot,39150ad570f052649696ec042ab6577d,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (161).jpg,130
+cache/1_407d8a4a6b3cce249b7720fdaffbc3fd.jpg,1,Brown Spot,407d8a4a6b3cce249b7720fdaffbc3fd,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (162).jpg,131
+cache/1_d5b43ede7190b1355376bda8b5412742.jpg,1,Brown Spot,d5b43ede7190b1355376bda8b5412742,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (163).jpg,132
+cache/1_7234c5fd00b10697674210012ff1cd48.jpg,1,Brown Spot,7234c5fd00b10697674210012ff1cd48,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (166).jpg,135
+cache/1_ba19a7531e88d932b7e144c0f424a687.jpg,1,Brown Spot,ba19a7531e88d932b7e144c0f424a687,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (167).jpg,136
+cache/1_59e7ecd541f7f790883a26d8c95fb7b6.jpg,1,Brown Spot,59e7ecd541f7f790883a26d8c95fb7b6,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (172).jpg,141
+cache/1_6aba32b77a3f191935785d12ccbb5255.jpg,1,Brown Spot,6aba32b77a3f191935785d12ccbb5255,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (173).jpg,142
+cache/1_8b95d8d593da9dbc96d80fbd55585f4f.jpg,1,Brown Spot,8b95d8d593da9dbc96d80fbd55585f4f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (200).jpg,169
+cache/1_32cde5019d1c901ec024d57537cb6a68.jpg,1,Brown Spot,32cde5019d1c901ec024d57537cb6a68,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/Brown_spot (210).jpg,179
+cache/1_5c42fe9d70967c2f141e13e36b0eaefd.jpg,1,Brown Spot,5c42fe9d70967c2f141e13e36b0eaefd,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/IMG_20231014_171715.jpg,192
+cache/1_6bcd6ade7f5b79c18213c4d694fe54e4.jpg,1,Brown Spot,6bcd6ade7f5b79c18213c4d694fe54e4,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/IMG_20231014_171716.jpg,192
+cache/1_ded8932ecfe348bdfc35e1135b1286b9.jpg,1,Brown Spot,ded8932ecfe348bdfc35e1135b1286b9,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/IMG_20231014_172133.jpg,196
+cache/1_452e3ce87e02f977819fcb4918a0da82.jpg,1,Brown Spot,452e3ce87e02f977819fcb4918a0da82,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/IMG_20231014_172422.jpg,198
+cache/1_5eb5893caab482c88e1e7f38c2124d51.jpg,1,Brown Spot,5eb5893caab482c88e1e7f38c2124d51,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/IMG_20231014_173242.jpg,201
+cache/1_092aa74142368f3f92f1a93f47f9647b.jpg,1,Brown Spot,092aa74142368f3f92f1a93f47f9647b,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/IMG_20231018_142945.jpg,206
+cache/1_e7a995544e10b540c008b5f502c0afe8.jpg,1,Brown Spot,e7a995544e10b540c008b5f502c0afe8,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Brown Spot/IMG_20231018_144156.jpg,222
+cache/2_ffe994117c1568694bf993be026098c8.jpg,2,Healthy Rice Leaf,ffe994117c1568694bf993be026098c8,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/20231006_163255.jpg,230
+cache/2_37a7f148fd90d4d4688c10420129482d.jpg,2,Healthy Rice Leaf,37a7f148fd90d4d4688c10420129482d,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (11).jpg,247
+cache/2_d50042683aa543468fbedd8e6cb52901.jpg,2,Healthy Rice Leaf,d50042683aa543468fbedd8e6cb52901,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (114).jpg,252
+cache/2_14c93da770dbe237402ac0f9bc8760ef.jpg,2,Healthy Rice Leaf,14c93da770dbe237402ac0f9bc8760ef,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (118).jpg,256
+cache/2_0d9e9e8982943053ee286e2544f6973c.jpg,2,Healthy Rice Leaf,0d9e9e8982943053ee286e2544f6973c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (128).jpg,267
+cache/2_5e0d5b307ec786c0e0af78cd3ba13ccf.jpg,2,Healthy Rice Leaf,5e0d5b307ec786c0e0af78cd3ba13ccf,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (13).jpg,269
+cache/2_8ceae96c45c48e13ce934bb65e0860a1.jpg,2,Healthy Rice Leaf,8ceae96c45c48e13ce934bb65e0860a1,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (132).jpg,272
+cache/2_ecce885271ab19bf03d0e5fa2a9ed299.jpg,2,Healthy Rice Leaf,ecce885271ab19bf03d0e5fa2a9ed299,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (140).jpg,281
+cache/2_69641828f11b40ef5b24dfae48c5616f.jpg,2,Healthy Rice Leaf,69641828f11b40ef5b24dfae48c5616f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (144).jpg,285
+cache/2_49ffb3f9d33fc35a7f92d539d7b62c20.jpg,2,Healthy Rice Leaf,49ffb3f9d33fc35a7f92d539d7b62c20,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (15).jpg,291
+cache/2_43ebb8af59963d0fc4cf60b6581e1dfd.jpg,2,Healthy Rice Leaf,43ebb8af59963d0fc4cf60b6581e1dfd,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (154).jpg,296
+cache/2_afcb5b888c23cabae9cac30e52dc4b98.jpg,2,Healthy Rice Leaf,afcb5b888c23cabae9cac30e52dc4b98,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (155).jpg,297
+cache/2_ffecad837c7213a7a60e8fc16d85dc3a.jpg,2,Healthy Rice Leaf,ffecad837c7213a7a60e8fc16d85dc3a,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (164).jpg,307
+cache/2_de28be89da26ca8a9987e10c422e6940.jpg,2,Healthy Rice Leaf,de28be89da26ca8a9987e10c422e6940,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (165).jpg,308
+cache/2_fe4fab87d5f16a99fa6012c0cf361e92.jpg,2,Healthy Rice Leaf,fe4fab87d5f16a99fa6012c0cf361e92,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (173).jpg,317
+cache/2_41f50d48e5701f19cf3c68a713efd77c.jpg,2,Healthy Rice Leaf,41f50d48e5701f19cf3c68a713efd77c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (28).jpg,337
+cache/2_9b3a386c6e198c8ee5d170c327811fad.jpg,2,Healthy Rice Leaf,9b3a386c6e198c8ee5d170c327811fad,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (32).jpg,342
+cache/2_ee00642ff8623946fa8891c2e97e4cde.jpg,2,Healthy Rice Leaf,ee00642ff8623946fa8891c2e97e4cde,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (34).jpg,344
+cache/2_90fb01b2a3ef8a3375e5c3b75df02273.jpg,2,Healthy Rice Leaf,90fb01b2a3ef8a3375e5c3b75df02273,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (35).jpg,345
+cache/2_af80cde6a650c97a2bb2ae4cc4ea4679.jpg,2,Healthy Rice Leaf,af80cde6a650c97a2bb2ae4cc4ea4679,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (37).jpg,345
+cache/2_5ada5dce9dd978928c66c9ca4e3cb387.jpg,2,Healthy Rice Leaf,5ada5dce9dd978928c66c9ca4e3cb387,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (41).jpg,352
+cache/2_87e862af342954479e5a7990511e3637.jpg,2,Healthy Rice Leaf,87e862af342954479e5a7990511e3637,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (57).jpg,369
+cache/2_9a516c0dd11f538480b4b08878400c54.jpg,2,Healthy Rice Leaf,9a516c0dd11f538480b4b08878400c54,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (64).jpg,377
+cache/2_923343fc40234b6347a0cd70839bd551.jpg,2,Healthy Rice Leaf,923343fc40234b6347a0cd70839bd551,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (65).jpg,378
+cache/2_c8de9abe741e7284c2d3fedbf98bc9c0.jpg,2,Healthy Rice Leaf,c8de9abe741e7284c2d3fedbf98bc9c0,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (68).jpg,381
+cache/2_fc73cc1e4b7fc9fd40b567e5a4bbe9f3.jpg,2,Healthy Rice Leaf,fc73cc1e4b7fc9fd40b567e5a4bbe9f3,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (94).jpg,408
+cache/2_f96a7290bad02b019477a541efed49f4.jpg,2,Healthy Rice Leaf,f96a7290bad02b019477a541efed49f4,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Healthy Rice Leaf/Healthy_rice_leaf (96).jpg,410
+cache/3_beb8ba4dbb4588a73ce5800fc64b20fd.jpg,3,Leaf Blast,beb8ba4dbb4588a73ce5800fc64b20fd,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231006_170556.jpg,422
+cache/3_25260667f13aff30ed26273764caeb16.jpg,3,Leaf Blast,25260667f13aff30ed26273764caeb16,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231006_170559.jpg,423
+cache/3_ec491d55ee26dcf604a39f04ed75d13f.jpg,3,Leaf Blast,ec491d55ee26dcf604a39f04ed75d13f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231014_170731.jpg,429
+cache/3_130717c19ef6002d820f2c1b701dfeb0.jpg,3,Leaf Blast,130717c19ef6002d820f2c1b701dfeb0,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231014_171756.jpg,442
+cache/3_fbffcb1b788ef6b10f1857b1de9e5050.jpg,3,Leaf Blast,fbffcb1b788ef6b10f1857b1de9e5050,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231014_171809.jpg,444
+cache/3_0a5976edc583891ef8fc7f67cc05e77c.jpg,3,Leaf Blast,0a5976edc583891ef8fc7f67cc05e77c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231014_172514.jpg,454
+cache/3_059fa4f19dcb2f8dfbed7eb0f746ad29.jpg,3,Leaf Blast,059fa4f19dcb2f8dfbed7eb0f746ad29,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231014_172515.jpg,455
+cache/3_aefa4ee449e8ea040af2564562e4a85c.jpg,3,Leaf Blast,aefa4ee449e8ea040af2564562e4a85c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231014_172518.jpg,456
+cache/3_271729f8621cd44c3d2444dcf1567226.jpg,3,Leaf Blast,271729f8621cd44c3d2444dcf1567226,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231018_143750 - Copy.jpg,486
+cache/3_799b3e066e9325977ef1a83fa892d2e1.jpg,3,Leaf Blast,799b3e066e9325977ef1a83fa892d2e1,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231018_143751.jpg,486
+cache/3_f447c1817e63a66b93077013b69c6be5.jpg,3,Leaf Blast,f447c1817e63a66b93077013b69c6be5,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231018_143753 - Copy.jpg,490
+cache/3_d2751972f06c694c6b512be13958ed66.jpg,3,Leaf Blast,d2751972f06c694c6b512be13958ed66,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231018_143803 - Copy.jpg,493
+cache/3_16561975b2b08823bd42703574bd9bde.jpg,3,Leaf Blast,16561975b2b08823bd42703574bd9bde,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231018_143837.jpg,494
+cache/4_3b46ca19e7363ecd0f87c5430e91dc05.jpg,4,Leaf scald,3b46ca19e7363ecd0f87c5430e91dc05,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (100).jpg,507
+cache/4_c902ad62fd51ab80ace6f40fb3b50e85.jpg,4,Leaf scald,c902ad62fd51ab80ace6f40fb3b50e85,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (101).jpg,508
+cache/4_b6bb4c8689af4a7692aeb881b7a717ac.jpg,4,Leaf scald,b6bb4c8689af4a7692aeb881b7a717ac,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (103).jpg,510
+cache/4_8eb0bbb19c770997c6c73288e4165be4.jpg,4,Leaf scald,8eb0bbb19c770997c6c73288e4165be4,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (53).jpg,536
+cache/4_566812cfefc0e0cb7d2b78a12d1550e8.jpg,4,Leaf scald,566812cfefc0e0cb7d2b78a12d1550e8,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (58).jpg,541
+cache/4_a16b7b07d256992a28872a55544d13c0.jpg,4,Leaf scald,a16b7b07d256992a28872a55544d13c0,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (60).jpg,543
+cache/4_93b985b5492ddd720712e43702ccdea2.jpg,4,Leaf scald,93b985b5492ddd720712e43702ccdea2,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (66).jpg,549
+cache/4_bec9cb31d0e23c588cafb27c4d61c8ae.jpg,4,Leaf scald,bec9cb31d0e23c588cafb27c4d61c8ae,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (71).jpg,554
+cache/4_942e5a3bea5e12356b637dbd4bc67abf.jpg,4,Leaf scald,942e5a3bea5e12356b637dbd4bc67abf,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (96).jpg,579
+cache/4_08af78f8803fd52a388f61180fb75988.jpg,4,Leaf scald,08af78f8803fd52a388f61180fb75988,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (98).jpg,581
+cache/5_46b86f54c0575ce0b1c7def99c399a85.jpg,5,Sheath Blight,46b86f54c0575ce0b1c7def99c399a85,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231006_163217 - Copy.jpg,583
+cache/5_962e323a3b7fbef5b4fbbe80a2912e7d.jpg,5,Sheath Blight,962e323a3b7fbef5b4fbbe80a2912e7d,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231006_163221 - Copy.jpg,586
+cache/5_908b6cdcb64655f5c03c26be657c08b1.jpg,5,Sheath Blight,908b6cdcb64655f5c03c26be657c08b1,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231006_164304.jpg,587
+cache/5_5a94c890775c30409db85a1180aea9c7.jpg,5,Sheath Blight,5a94c890775c30409db85a1180aea9c7,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231006_164322.jpg,588
+cache/5_c3489ee5ee6256088446a539f403fcae.jpg,5,Sheath Blight,c3489ee5ee6256088446a539f403fcae,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231006_164332.jpg,589
+cache/5_ac7aa726102b88f17af51be30f46b5f3.jpg,5,Sheath Blight,ac7aa726102b88f17af51be30f46b5f3,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_170949.jpg,593
+cache/5_12fb9cdd910f41f2879a503fd1b7b684.jpg,5,Sheath Blight,12fb9cdd910f41f2879a503fd1b7b684,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171001.jpg,600
+cache/5_f02e26293e10ef4bce35f96d1e3fb836.jpg,5,Sheath Blight,f02e26293e10ef4bce35f96d1e3fb836,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171003.jpg,600
+cache/5_1a1a6c6f39885a3b6336fcf373ef40cd.jpg,5,Sheath Blight,1a1a6c6f39885a3b6336fcf373ef40cd,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171013.jpg,605
+cache/5_e062833dc2346d17116f423497002734.jpg,5,Sheath Blight,e062833dc2346d17116f423497002734,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171025.jpg,614
+cache/5_3c0288e42ab37b0840144f82515d958f.jpg,5,Sheath Blight,3c0288e42ab37b0840144f82515d958f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171117.jpg,626
+cache/5_c68012fcce250b69c2c713da7c2b2ced.jpg,5,Sheath Blight,c68012fcce250b69c2c713da7c2b2ced,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171730.jpg,629
+cache/5_2da350983b8890750c32aca944c6ef7c.jpg,5,Sheath Blight,2da350983b8890750c32aca944c6ef7c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171741.jpg,633
+cache/5_f2ec17790e608308933949c2f7576263.jpg,5,Sheath Blight,f2ec17790e608308933949c2f7576263,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_171742.jpg,634
+cache/5_936968806723187c94b2bfec1ff6aae3.jpg,5,Sheath Blight,936968806723187c94b2bfec1ff6aae3,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_172929.jpg,647
+cache/5_27c234c6f8b5c4bb561bec719a8acb22.jpg,5,Sheath Blight,27c234c6f8b5c4bb561bec719a8acb22,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_172936.jpg,648
+cache/5_0193b8766c9cd5ad6cdf83a84afa3de7.jpg,5,Sheath Blight,0193b8766c9cd5ad6cdf83a84afa3de7,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_173703.jpg,661
+cache/5_1d7a04e8292ace37d98a0159f48173a9.jpg,5,Sheath Blight,1d7a04e8292ace37d98a0159f48173a9,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_173807.jpg,670
+cache/5_f6ed8460ec19bc0b649a483883374b56.jpg,5,Sheath Blight,f6ed8460ec19bc0b649a483883374b56,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231014_173949.jpg,687
+cache/5_ebafe226a2148fd896395297fe671bfa.jpg,5,Sheath Blight,ebafe226a2148fd896395297fe671bfa,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231018_143257.jpg,706
+cache/5_53cabc3da6aec09ba08d36bc6aea7dbd.jpg,5,Sheath Blight,53cabc3da6aec09ba08d36bc6aea7dbd,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231018_143300.jpg,707
+cache/5_b1b7b9a7e77299a38ef617bbb4e2acc8.jpg,5,Sheath Blight,b1b7b9a7e77299a38ef617bbb4e2acc8,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231018_143300_1.jpg,708
+cache/5_18f92c122d6a042056206f4b43919c5c.jpg,5,Sheath Blight,18f92c122d6a042056206f4b43919c5c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/IMG_20231018_143315.jpg,710
+cache/5_67adfcd7a024ad98840b106ded9398db.jpg,5,Sheath Blight,67adfcd7a024ad98840b106ded9398db,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (100).jpg,722
+cache/5_7b1f669cc1c288b97bbeed020966327b.jpg,5,Sheath Blight,7b1f669cc1c288b97bbeed020966327b,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (112).jpg,735
+cache/5_eeae3732f7ea0c7edaa339fdcd2e9e60.jpg,5,Sheath Blight,eeae3732f7ea0c7edaa339fdcd2e9e60,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (117).jpg,740
+cache/5_cf43b3d0eace5bb4daaffa1a08aad8a2.jpg,5,Sheath Blight,cf43b3d0eace5bb4daaffa1a08aad8a2,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (131).jpg,756
+cache/5_e8f2a585bf9f9af9c6c6e028eb6e489a.jpg,5,Sheath Blight,e8f2a585bf9f9af9c6c6e028eb6e489a,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (137).jpg,762
+cache/5_ad1f637b4dee497a5dd53add1c5541ee.jpg,5,Sheath Blight,ad1f637b4dee497a5dd53add1c5541ee,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (16).jpg,775
+cache/5_0c60ca3892e17f5b7b31cae980684d2e.jpg,5,Sheath Blight,0c60ca3892e17f5b7b31cae980684d2e,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (17).jpg,776
+cache/5_e01861d8147fa379a56d03f3202422c3.jpg,5,Sheath Blight,e01861d8147fa379a56d03f3202422c3,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (20).jpg,780
+cache/5_ef6611bb3cebf5a187eacd7ecd734a10.jpg,5,Sheath Blight,ef6611bb3cebf5a187eacd7ecd734a10,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (22).jpg,782
+cache/5_41bd1d33a93098ba2164aaeadd16dadc.jpg,5,Sheath Blight,41bd1d33a93098ba2164aaeadd16dadc,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (44).jpg,589
+cache/5_9366a196d0d4109d0732aed309ffe866.jpg,5,Sheath Blight,9366a196d0d4109d0732aed309ffe866,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (50).jpg,813
+cache/5_9d740cad9df24312f4fb969044ac4b2c.jpg,5,Sheath Blight,9d740cad9df24312f4fb969044ac4b2c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (57).jpg,820
+cache/5_f1a88ad8bd22b265f42c2c6015f6520f.jpg,5,Sheath Blight,f1a88ad8bd22b265f42c2c6015f6520f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (71).jpg,836
+cache/5_f37fe52376921989694863ade8a1c04c.jpg,5,Sheath Blight,f37fe52376921989694863ade8a1c04c,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (74).jpg,839
+cache/5_f6da84afca63af750c4e970fbdc9abc8.jpg,5,Sheath Blight,f6da84afca63af750c4e970fbdc9abc8,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (77).jpg,842
+cache/5_d100b9910e31bbfa73aa815e7eba36a5.jpg,5,Sheath Blight,d100b9910e31bbfa73aa815e7eba36a5,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (78).jpg,843
+cache/5_79e7c65a5e4725b6e84dafeb3afd23ab.jpg,5,Sheath Blight,79e7c65a5e4725b6e84dafeb3afd23ab,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (90).jpg,857
+cache/5_7ab80a7f1fbb71a2007493d3f312d04b.jpg,5,Sheath Blight,7ab80a7f1fbb71a2007493d3f312d04b,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (96).jpg,863

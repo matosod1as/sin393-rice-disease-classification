@@ -1,0 +1,10 @@
+results/*/best.pt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out

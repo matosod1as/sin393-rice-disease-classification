@@ -1,0 +1,137 @@
+path,class_name,y_true,y_pred,pred_name,confidence
+cache/0_6bcd88950bb5665c6b524f90a89b8967.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.94666094
+cache/0_a3dba5e820da85d7e05cf979e5686d11.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.9537921
+cache/0_3eb6069f635678a5df3ad5880daa55ba.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.989705
+cache/0_fb66f9c08e7219a1bdd27b5858000016.jpg,Bacterial Leaf Blight,0,4,Leaf scald,0.74041396
+cache/0_6e489fa4ab0d766576a7667d45c4b4d5.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.9592348
+cache/0_23eeba0d66fdd9d4bbc26dd2b8f8b817.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.9691265
+cache/0_437589dc06703af238f88aa9d3ab0737.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.97775626
+cache/0_9e88853f2624d91860c720335e0f8c29.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.97994334
+cache/0_b89e2cd1cdc1864f44ed774f68ee2693.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.6798648
+cache/0_69226e191f7d6d967778340d02959176.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.92712086
+cache/0_8f3966927b3401b610905bd7000c3f9c.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.40549624
+cache/0_4faf3734deba1ebef8b05daf00695469.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.7755147
+cache/0_88c3e15a660a7c1afc7e69d6d84cb90a.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.75690943
+cache/0_62a0e7a3e116964e171e56338cdca8a5.jpg,Bacterial Leaf Blight,0,0,Bacterial Leaf Blight,0.83849925
+cache/1_a1f5954dc0845261d0238c50bc90e62f.jpg,Brown Spot,1,1,Brown Spot,0.99133134
+cache/1_9e26fe1cb3221715913fd2803f3b31c6.jpg,Brown Spot,1,1,Brown Spot,0.9936278
+cache/1_577a7550516d46bb8b5a125536db254f.jpg,Brown Spot,1,1,Brown Spot,0.88765776
+cache/1_701e4f10d0093b7b0c958121cdd0c599.jpg,Brown Spot,1,1,Brown Spot,0.9908935
+cache/1_bc8c687cad11f0094a62b152c41ce41b.jpg,Brown Spot,1,1,Brown Spot,0.994759
+cache/1_99baa1d99f21f4477477617a364d3552.jpg,Brown Spot,1,1,Brown Spot,0.99428177
+cache/1_03c52055222a98e02145f3c688ebac6e.jpg,Brown Spot,1,2,Healthy Rice Leaf,0.72332317
+cache/1_7c8eb437d261e23ea64c45fb9c2d7a7f.jpg,Brown Spot,1,1,Brown Spot,0.99452764
+cache/1_06383e578349b4d2565287ab4ce00066.jpg,Brown Spot,1,1,Brown Spot,0.9958372
+cache/1_81f11509ddb56681dc44f9b721b0c89d.jpg,Brown Spot,1,1,Brown Spot,0.99957174
+cache/1_d757f56189259af5276053813a1d1841.jpg,Brown Spot,1,1,Brown Spot,0.99409455
+cache/1_fbada3af8fec8dc20840094e14a6bf0f.jpg,Brown Spot,1,1,Brown Spot,0.6685775
+cache/1_4a1798f833aec04c5f5fcab47a6e3293.jpg,Brown Spot,1,1,Brown Spot,0.9981669
+cache/1_77f3dbf9de782d3b8c5ec2753264405e.jpg,Brown Spot,1,1,Brown Spot,0.9980349
+cache/1_531cec32952bc1c789d7fc913caba2a2.jpg,Brown Spot,1,1,Brown Spot,0.9957818
+cache/1_7c88a324742005ac7e0c42462c65c51f.jpg,Brown Spot,1,1,Brown Spot,0.9501077
+cache/1_bf0734c842b79692f5640e30a7244e52.jpg,Brown Spot,1,1,Brown Spot,0.99343514
+cache/1_f1c9768b1e22e7abbde00044ab2dff02.jpg,Brown Spot,1,1,Brown Spot,0.99747
+cache/1_1b0a0250a262ca0bf58d08834a415d4d.jpg,Brown Spot,1,1,Brown Spot,0.91334313
+cache/1_e3d24a9be0fb748c612b89816219bd20.jpg,Brown Spot,1,1,Brown Spot,0.99618894
+cache/1_297aab5e7fc1ec1c36f82e14c9ce1120.jpg,Brown Spot,1,1,Brown Spot,0.9920918
+cache/1_9330c6ece8838a8c3cfe4999e04a6e70.jpg,Brown Spot,1,3,Leaf Blast,0.74977744
+cache/1_9996caa8f85c359c5dcc5f6805087b03.jpg,Brown Spot,1,3,Leaf Blast,0.43626305
+cache/2_70bcc417bec7220bbd521585d0433ee7.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.7591727
+cache/2_14d91facdf4ecf59fa716a7b5262cf68.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99300647
+cache/2_5be102955ac8a110cd581e41feeb371f.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.94215626
+cache/2_e489fdae6f2e52ada0d14fc3e97b0026.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9994486
+cache/2_e746ae088a28787ae53607d64d56bc95.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9999356
+cache/2_d41ae6525d5ea69b62c4ec2d7da191e7.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99979454
+cache/2_090480cee174a41279f8190c83105e26.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9946872
+cache/2_c4a18c1e8f39b5d9af84295cec7a6f09.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9993861
+cache/2_f8ea0086929170935312ddcb6f9698df.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99862206
+cache/2_2ec9be05dc92a5d9139310f48c05e7a1.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9996524
+cache/2_fe1cf80fbd445deaec3cb68d6f46c93a.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9998888
+cache/2_da2f2f45d3857a006738d3d4e0423fc0.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99527824
+cache/2_34bc12bb83515c6e9793ec063acaf853.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.999788
+cache/2_28fb0527b3a638cbe27826e3ae9cd0dd.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9881996
+cache/2_5e6794d1b17883c7851a3f296c517eed.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9997336
+cache/2_8597f1131fac9e8c6cb795fb8a7b3f92.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9997911
+cache/2_b415025ce66a95ce643f6fb7a9b00c61.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9995154
+cache/2_5bcedc90fdae1fc42a368410f6c666de.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9990683
+cache/2_968d919cd02abdb9ef9d329bc5bfff14.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99921143
+cache/2_e6b90a60e77bf14ab7449ff3ed96d787.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99907327
+cache/2_ede4b0c935c73d36296e18634494aafa.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99838424
+cache/2_2731e4f7c0fde25c006a342ab9c96270.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99348795
+cache/2_4bd4dc82a815a02ae9625d8803cd71c4.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9916602
+cache/2_bf739eaa7e65cc638352c9a8c2a1dcb9.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.99724966
+cache/2_b69b86b7e9846d3e54fbbdb19fdf2649.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9994406
+cache/2_e5e48b3c07d3da7e4ff918d680f3c410.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9997732
+cache/2_e9ed120bcfbb0be344f17d1efa99349d.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.993824
+cache/2_a56cc7a39b362510acfcae61442d87cd.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9977743
+cache/2_bfbe94248c43a893606764870f32ccfa.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9999144
+cache/2_e5168fdeea9005a8983ea39e094be706.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.9992951
+cache/2_36893070bcf04e8dd8217224d5108e56.jpg,Healthy Rice Leaf,2,2,Healthy Rice Leaf,0.997184
+cache/3_0206556af5318d611c582c6bae1be741.jpg,Leaf Blast,3,3,Leaf Blast,0.983201
+cache/3_c1605eb5c07bc567e2e542668b3e11ee.jpg,Leaf Blast,3,3,Leaf Blast,0.9081867
+cache/3_d1bf353b0154fc3cc226850e0563b236.jpg,Leaf Blast,3,3,Leaf Blast,0.99953496
+cache/3_91c2f276fe28896448f43b2d2a9adb80.jpg,Leaf Blast,3,0,Bacterial Leaf Blight,0.47196406
+cache/3_43d9141e0444647b1147aa889ff0c784.jpg,Leaf Blast,3,3,Leaf Blast,0.8795135
+cache/3_e3d3044e0fb094328a375df357c6d8c7.jpg,Leaf Blast,3,3,Leaf Blast,0.993313
+cache/3_fcfc15f69be9078b06fd01c83e916544.jpg,Leaf Blast,3,3,Leaf Blast,0.93097085
+cache/3_4fe687fb612f55afe54033c37fcf8be2.jpg,Leaf Blast,3,3,Leaf Blast,0.9430095
+cache/3_a3039720b9ce912eb3ea81a51193bcd1.jpg,Leaf Blast,3,3,Leaf Blast,0.97821623
+cache/3_49057503a8572ff5eb388700c59180dc.jpg,Leaf Blast,3,3,Leaf Blast,0.51479644
+cache/3_b32d48fa4dcac9b333780d82174a5c10.jpg,Leaf Blast,3,3,Leaf Blast,0.8943881
+cache/3_3f0aa5faa6b5b7d5163cc353d13b6efc.jpg,Leaf Blast,3,3,Leaf Blast,0.9955051
+cache/4_f71ba91a939bffb3b505480d568c9653.jpg,Leaf scald,4,1,Brown Spot,0.82468307
+cache/4_e90bb611c31919df00a2e5f9b70f834a.jpg,Leaf scald,4,4,Leaf scald,0.9745977
+cache/4_c5223d020fcfe3fdb73111395bd621c8.jpg,Leaf scald,4,4,Leaf scald,0.99482745
+cache/4_e2365484c986c1bb47770c751b73168a.jpg,Leaf scald,4,4,Leaf scald,0.9760828
+cache/4_3ff7abf8cba39d7757fb20cb8d3d5d68.jpg,Leaf scald,4,4,Leaf scald,0.9262184
+cache/4_d3402f165c3d67871b3f9f70eda3a2ed.jpg,Leaf scald,4,4,Leaf scald,0.9124885
+cache/4_57bc2ecf14af4437fbb5afde9a729e04.jpg,Leaf scald,4,4,Leaf scald,0.9609449
+cache/4_278c9d41a24df392b2bfe99ddea9ce3f.jpg,Leaf scald,4,1,Brown Spot,0.988284
+cache/4_b78fa96af3472b06fa76fab946f993ea.jpg,Leaf scald,4,4,Leaf scald,0.97890544
+cache/4_cf4deb3b161b98b90d97c1fbd5f04420.jpg,Leaf scald,4,4,Leaf scald,0.36871648
+cache/5_7806a5bda27fe4b8b337db4252fa0fc9.jpg,Sheath Blight,5,5,Sheath Blight,0.9894996
+cache/5_5e81567eb27867eb06163b7ea4b53168.jpg,Sheath Blight,5,5,Sheath Blight,0.9259683
+cache/5_9250390ffa355ed886cf3b3f354d4bf9.jpg,Sheath Blight,5,5,Sheath Blight,0.713967
+cache/5_753ff0c827995a2d8eb2def640e5a8a9.jpg,Sheath Blight,5,5,Sheath Blight,0.9724931
+cache/5_37e7717b65a87deeaddb422275c9a371.jpg,Sheath Blight,5,5,Sheath Blight,0.94066197
+cache/5_50c0027210978857941560312362e1a3.jpg,Sheath Blight,5,5,Sheath Blight,0.99343175
+cache/5_2a884d832d88dbea8a9a99e914951b06.jpg,Sheath Blight,5,5,Sheath Blight,0.9673245
+cache/5_18786eb16c75376d1bfb6161296d1912.jpg,Sheath Blight,5,5,Sheath Blight,0.9844146
+cache/5_35fcb0f93581fd68cb7b09ee14565ed3.jpg,Sheath Blight,5,5,Sheath Blight,0.98900104
+cache/5_2998e645187eb90f3c07c1bcb8d686d8.jpg,Sheath Blight,5,5,Sheath Blight,0.5391192
+cache/5_7d90ccec13a88317ba2a112874ee5bd8.jpg,Sheath Blight,5,5,Sheath Blight,0.9611294
+cache/5_827553bcf34a5784b90973e4cb77af87.jpg,Sheath Blight,5,5,Sheath Blight,0.7216379
+cache/5_3994b5dca034ab4a0a98c6fb0325e8b6.jpg,Sheath Blight,5,5,Sheath Blight,0.9987494
+cache/5_906487096104b6119ccf722a873aadf7.jpg,Sheath Blight,5,5,Sheath Blight,0.9966934
+cache/5_cc9e8b64ef974711d5ea7c00362bf92c.jpg,Sheath Blight,5,5,Sheath Blight,0.99942017
+cache/5_7d5466a61028d69bd0c9200e9e4cc491.jpg,Sheath Blight,5,5,Sheath Blight,0.99941397
+cache/5_8a71d49d00e5b3ae31c7c75d6f7f306a.jpg,Sheath Blight,5,1,Brown Spot,0.74938834
+cache/5_e6d5e3fadf498fc4419095f05df59ae1.jpg,Sheath Blight,5,5,Sheath Blight,0.9931376
+cache/5_03fc074470b7252de8bda8644a7180d8.jpg,Sheath Blight,5,5,Sheath Blight,0.9983222
+cache/5_32744b5fb838091c20fb814c01f404ad.jpg,Sheath Blight,5,5,Sheath Blight,0.99255896
+cache/5_096f7ff3ad7b1e00a517dde998341afb.jpg,Sheath Blight,5,5,Sheath Blight,0.9962878
+cache/5_fb43cfb73eda868553e0e9b918f87b14.jpg,Sheath Blight,5,5,Sheath Blight,0.99612397
+cache/5_37d00a57a43ad2c6a2f090e9a624b049.jpg,Sheath Blight,5,0,Bacterial Leaf Blight,0.5248987
+cache/5_3ba222075d63ff95fc4087e9d27066f8.jpg,Sheath Blight,5,5,Sheath Blight,0.9841701
+cache/5_783540d5e4ea96065e6c2a8fe8d6a4d4.jpg,Sheath Blight,5,5,Sheath Blight,0.9322589
+cache/5_bbb7ecf7382eb585c30cf04ba44be09c.jpg,Sheath Blight,5,5,Sheath Blight,0.8775435
+cache/5_acecd8d6b892b7ca898c40a7287f273c.jpg,Sheath Blight,5,5,Sheath Blight,0.9284055
+cache/5_b09d6049740fdd0f94d73c4af834d1a6.jpg,Sheath Blight,5,5,Sheath Blight,0.9997248
+cache/5_423ae71d272b9f03917ff0580baed680.jpg,Sheath Blight,5,5,Sheath Blight,0.9998845
+cache/5_71a449c7a4b416f7d80efb99abc5ce2d.jpg,Sheath Blight,5,5,Sheath Blight,0.9981103
+cache/5_753137ffd651ce6043c6919d07391358.jpg,Sheath Blight,5,5,Sheath Blight,0.99934703
+cache/5_4c5f522bbc1f20324d785bf96af41f31.jpg,Sheath Blight,5,4,Leaf scald,0.5933338
+cache/5_07075cfacab949b3055b85fdfe5f1957.jpg,Sheath Blight,5,5,Sheath Blight,0.99833894
+cache/5_cbd6f8b52db0cb49b310af6ecfd6a06a.jpg,Sheath Blight,5,5,Sheath Blight,0.9981585
+cache/5_ed1a0bce2f05e6906c5acaf8a4f96d42.jpg,Sheath Blight,5,5,Sheath Blight,0.98816943
+cache/5_d5c581b2d361c14bfec9dea3c8d86bc3.jpg,Sheath Blight,5,5,Sheath Blight,0.9960563
+cache/5_436287a21b2cf6e521e397b0a591e69b.jpg,Sheath Blight,5,5,Sheath Blight,0.9974251
+cache/5_27c9f6993cdc4e04058ddd7eec38c0c3.jpg,Sheath Blight,5,5,Sheath Blight,0.90109134
+cache/5_a15902c0184d3ca085b5c324954154df.jpg,Sheath Blight,5,2,Healthy Rice Leaf,0.7490281
+cache/5_d241d72f81360c735cc8f70c73ab4806.jpg,Sheath Blight,5,5,Sheath Blight,0.92584926
+cache/5_8095aa1fd3947bf87ee6f8b1403172bc.jpg,Sheath Blight,5,5,Sheath Blight,0.9012391
+cache/5_e74c7b45c0eb4850c70ce0adcc58b6f5.jpg,Sheath Blight,5,5,Sheath Blight,0.999974
+cache/5_5921796fa2a1ebe11b5a809f5cbc59eb.jpg,Sheath Blight,5,5,Sheath Blight,0.992144
+cache/5_cde06fe91d51ead95bc49be4d396b7c5.jpg,Sheath Blight,5,5,Sheath Blight,0.974538
+cache/5_6caa5030e8c67403eed55e45f2abd7be.jpg,Sheath Blight,5,5,Sheath Blight,0.9976695
+cache/5_a066828f80e6c6770d54db525f26f6e0.jpg,Sheath Blight,5,5,Sheath Blight,0.9997532

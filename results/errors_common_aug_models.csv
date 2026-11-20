@@ -1,0 +1,6 @@
+path,label,class_name,md5,orig_path,group
+cache/0_fb66f9c08e7219a1bdd27b5858000016.jpg,0,Bacterial Leaf Blight,fb66f9c08e7219a1bdd27b5858000016,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Bacterial Leaf Blight/IMG_20231014_173114.jpg,22
+cache/3_91c2f276fe28896448f43b2d2a9adb80.jpg,3,Leaf Blast,91c2f276fe28896448f43b2d2a9adb80,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf Blast/IMG_20231014_172956.jpg,466
+cache/4_f71ba91a939bffb3b505480d568c9653.jpg,4,Leaf scald,f71ba91a939bffb3b505480d568c9653,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (104).jpg,511
+cache/4_278c9d41a24df392b2bfe99ddea9ce3f.jpg,4,Leaf scald,278c9d41a24df392b2bfe99ddea9ce3f,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Leaf scald/Leaf_scald (84).jpg,567
+cache/5_4c5f522bbc1f20324d785bf96af41f31.jpg,5,Sheath Blight,4c5f522bbc1f20324d785bf96af41f31,/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG/Sheath Blight/Sheath_Blight (25).jpg,785

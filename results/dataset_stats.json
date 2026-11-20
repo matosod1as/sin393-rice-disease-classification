@@ -1,0 +1,27 @@
+{
+  "class_root": "/kaggle/input/rice-disease-dataset/Rice_Leaf_AUG",
+  "classes": [
+    "Bacterial Leaf Blight",
+    "Brown Spot",
+    "Healthy Rice Leaf",
+    "Leaf Blast",
+    "Leaf scald",
+    "Sheath Blight"
+  ],
+  "n_total_files": 3829,
+  "n_aug_excluded": 2931,
+  "n_corrupt": 0,
+  "n_duplicates_removed": 31,
+  "n_conflicting_removed": 0,
+  "n_after_cleaning": 867,
+  "n_groups": 781,
+  "n_in_near_dup_groups": 144,
+  "per_class": {
+    "Bacterial Leaf Blight": 89,
+    "Brown Spot": 141,
+    "Healthy Rice Leaf": 184,
+    "Leaf Blast": 93,
+    "Leaf scald": 76,
+    "Sheath Blight": 284
+  }
+}

@@ -1,0 +1,15 @@
+\begin{table*}[t]
+\centering
+\caption{Desempenho no conjunto de teste (\%). P, R e F1 com agregação \textit{macro} e \textit{weighted}. DA = \textit{data augmentation}. Melhor F1-macro em negrito.}
+\label{tab:resultados}
+\begin{tabular}{llccccccccc}
+\toprule
+Modelo & DA & Acc & P$_{mac}$ & R$_{mac}$ & F1$_{mac}$ & P$_{w}$ & R$_{w}$ & F1$_{w}$ & Parâm. (M) & Tempo (min) \\
+\midrule
+ResNet-50 & Sim & 91.91 & 88.70 & 90.46 & 89.49 & 92.21 & 91.91 & 91.95 & 23.5 & 2.2 \\
+ResNet-50 & Não & 88.97 & 85.61 & 84.63 & 84.48 & 89.76 & 88.97 & 88.96 & 23.5 & 1.2 \\
+ViT-B/16 & Sim & 94.85 & 91.72 & 91.33 & \textbf{91.46} & 94.87 & 94.85 & 94.81 & 85.8 & 2.7 \\
+ViT-B/16 & Não & 91.91 & 87.53 & 87.69 & 87.45 & 91.95 & 91.91 & 91.80 & 85.8 & 1.6 \\
+\bottomrule
+\end{tabular}
+\end{table*}

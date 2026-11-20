@@ -1,0 +1,31 @@
+{
+  "best_experiment": "vit_b_16_aug",
+  "top_confusions": [
+    [
+      "Leaf scald",
+      "Brown Spot",
+      3
+    ],
+    [
+      "Bacterial Leaf Blight",
+      "Leaf Blast",
+      1
+    ],
+    [
+      "Brown Spot",
+      "Leaf scald",
+      1
+    ],
+    [
+      "Leaf Blast",
+      "Bacterial Leaf Blight",
+      1
+    ],
+    [
+      "Sheath Blight",
+      "Leaf scald",
+      1
+    ]
+  ],
+  "n_errors_common_to_aug_models": 5
+}

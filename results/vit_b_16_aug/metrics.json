@@ -1,0 +1,114 @@
+{
+  "accuracy": 0.9485294117647058,
+  "precision_macro": 0.9171693121693122,
+  "recall_macro": 0.9133367839889579,
+  "f1_macro": 0.9146263093631514,
+  "precision_weighted": 0.9486601307189543,
+  "recall_weighted": 0.9485294117647058,
+  "f1_weighted": 0.9481342638269882,
+  "per_class": {
+    "Bacterial Leaf Blight": {
+      "precision": 0.9285714285714286,
+      "recall": 0.9285714285714286,
+      "f1-score": 0.9285714285714286,
+      "support": 14.0
+    },
+    "Brown Spot": {
+      "precision": 0.88,
+      "recall": 0.9565217391304348,
+      "f1-score": 0.9166666666666666,
+      "support": 23.0
+    },
+    "Healthy Rice Leaf": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 31.0
+    },
+    "Leaf Blast": {
+      "precision": 0.9166666666666666,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.9166666666666666,
+      "support": 12.0
+    },
+    "Leaf scald": {
+      "precision": 0.7777777777777778,
+      "recall": 0.7,
+      "f1-score": 0.7368421052631579,
+      "support": 10.0
+    },
+    "Sheath Blight": {
+      "precision": 1.0,
+      "recall": 0.9782608695652174,
+      "f1-score": 0.989010989010989,
+      "support": 46.0
+    },
+    "accuracy": 0.9485294117647058,
+    "macro avg": {
+      "precision": 0.9171693121693122,
+      "recall": 0.9133367839889579,
+      "f1-score": 0.9146263093631514,
+      "support": 136.0
+    },
+    "weighted avg": {
+      "precision": 0.9486601307189543,
+      "recall": 0.9485294117647058,
+      "f1-score": 0.9481342638269882,
+      "support": 136.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      13,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      22,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      31,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      11,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      45
+    ]
+  ],
+  "best_epoch": 14,
+  "best_val_f1": 0.9358439672165163,
+  "train_time_s": 164.1528606414795,
+  "experiment": "vit_b_16_aug"
+}
