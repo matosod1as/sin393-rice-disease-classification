@@ -4,7 +4,7 @@ Projeto da disciplina **SIN 393 – Introdução à Visão Computacional (2026)*
 
 **Autores:** Vinícius Matoso Dias, Paulo Roberto e Gabriel Rodrigues
 
-**Vídeo de apresentação (YouTube):** *(colar o link aqui)*
+**Vídeo de apresentação (YouTube):** *https://youtu.be/1PLxgVUjOAA*
 
 ---
 
